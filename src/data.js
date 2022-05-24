@@ -22,7 +22,7 @@ import ide from './images/ide.png';
 
 export const designations = ["Front-end Developer", "Software Engineer"];
 export const hello = ["Hi"]
-export const about = "👋 I'm Ankit Anand. A software Engineer at Persistent Systems :). Currently I'm working with ReactJS. If you like this portfolio and want to work with me or hire me please contact me through my linkedIn or at ankit854100@gmail.com. Thank you 💜";
+export const about = "👋 I'm Ankit Anand. A software Engineer at Persistent Systems :). Currently I'm working with ReactJS library. If you like this portfolio and want to reach out to me please contact me through my linkedIn or at ankit854100@gmail.com. Thank you 💜";
 
 export const resumeProjects = [
   {
