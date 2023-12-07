@@ -99,9 +99,16 @@ export const resumeExperience = [
   {
     technologies: [ 'HTML5', 'CSS3', 'React', 'JavaScript', 'Java'],
     mainTech: ['React'],
-    years: 'June 2021 - present',
+    years: 'Jan 2023 - present',
+    title: 'Senior Software Engineer',
+    company: 'Persistent Systems'
+  },
+  {
+    technologies: [ 'HTML5', 'CSS3', 'React', 'JavaScript', 'Java'],
+    mainTech: ['React'],
+    years: 'June 2021 - Jan 2023',
     title: 'Software Engineer',
-    company: 'Persistent System'
+    company: 'Persistent Systems'
   },
   {
     technologies: ['HTML5', 'CSS3', 'JavaScript', 'React'],
